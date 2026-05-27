@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterselete",
+        "uuid": 17100776,
+        "checksum": "19wfy"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
